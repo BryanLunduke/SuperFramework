@@ -1,2 +1,2 @@
 # SuperFramework
-A new framework
+A new framework for building robust, scalable, serverless applications.
